@@ -1,6 +1,6 @@
 # kwjp100-varia
 
-To repozytorium zawiera publiczne zbiory danych stworzone na podstawie zrównoważonej wersji [Korpusu Współczesnego Języka Polskiego](https://kwjp.pl). 
+To repozytorium zawiera publiczne zbiory danych stworzone na podstawie zrównoważonego [Korpusu Współczesnego Języka Polskiego](https://kwjp.pl). 
 
 W katalogu `freqlists` znajdują się listy frekwencyjne słów i n-gramów wygenerowanych z KWJP100 oraz jego podkorpusów gatunkowych. Listy można również przeglądać bezpośrednio [na stronie](https://kwjp.ipipan.waw.pl/lists/).
 
